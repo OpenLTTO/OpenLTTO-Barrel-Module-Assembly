@@ -23,7 +23,7 @@ This work is licensed under a
 The OpenLTTO Barrel Module Assembly is a 3D Printable Optical Assembly, which houses the Barrel Module PCB, and required optics, inside a simple assembly which can then be easily embedded within other projects.
 
 The primary place this design is authored is on OnShape CAD as a publicly shared document, accessible at the following link:
-https://cad.onshape.com/documents/e1d899f96e1e04d7275a09a1/w/607acbe0bebce4cc9caf4ee5/e/436bfff928f4fe3aca254f6f?configuration=default&renderMode=0&uiState=65be94fa0f24c16241198061
+https://cad.onshape.com/documents/e1d899f96e1e04d7275a09a1/w/607acbe0bebce4cc9caf4ee5/e/436bfff928f4fe3aca254f6f
 
 Included in this repo are the following resources:
 - This Readme File, for informational purposes
@@ -50,5 +50,16 @@ If not using CAD to design the tagger, or other housing, the dimensions of the a
 - The keyway front face is 9.1mm from the rear face
 - The keyway is approximately 3.3mm deep, and 8.65mm wide at the bottom, with sides that angle out at 45 degrees.
 - The rear of the assembly requires clearance for the electronics of approximately 5mm
+
+# Images
+
+## OpenLTTO Barrel Module Assembly Front Isometric
+![Image of OpenLTTO Barrel Module Assembly Front Isometric View](https://github.com/OpenLTTO/OpenLTTO-Barrel-Module-Assembly/blob/main/OpenLTTO%20Barrel%20Module%20Assembly%20Front%20Iso.png?raw=true)
+
+## OpenLTTO Barrel Module Assembly Back Isometric
+![Image of OpenLTTO Barrel Module Assembly Back Isometric View](https://github.com/OpenLTTO/OpenLTTO-Barrel-Module-Assembly/blob/main/OpenLTTO%20Barrel%20Module%20Assembly%20Back%20Iso.png?raw=true)
+
+## OpenLTTO Barrel Module Assembly Exploded View
+![Image of OpenLTTO Barrel Module Assembly Exploded View](https://github.com/OpenLTTO/OpenLTTO-Barrel-Module-Assembly/blob/main/OpenLTTO%20Barrel%20Module%20Assembly%20Exploded.png?raw=true)
 
 
